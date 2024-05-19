@@ -5,8 +5,6 @@
 - [Model](#model)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 This project aims to predict the rental price of Airbnb listings in New York City using machine learning techniques. Accurate price predictions can help hosts set competitive prices and assist potential renters in identifying good deals.
@@ -24,3 +22,12 @@ The dataset used for this project is sourced from [Course Webiste](https://www.d
 - `access`: Access information
 - `interaction`: Host interaction details
 - etc
+  
+## Model
+The model used for prediction is based on machine learning algorithms such as CatBoost, GradientBoost, lgb, or XGBoost. Feature engineering and hyperparameter tuning were performed to optimize the model performance.
+
+## Evaluation
+The model is evaluated using metrics Mean Squared Error (MSE).
+
+## Results
+The final model achieves a Mean Squared Error (MSE) of 81.12619 on the test set. The performance metrics indicate that the model is effective in predicting Airbnb listing prices within a reasonable error margin.
