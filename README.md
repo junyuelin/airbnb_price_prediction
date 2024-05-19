@@ -14,7 +14,7 @@
 This project aims to predict the rental price of Airbnb listings in New York City using machine learning techniques. Accurate price predictions can help hosts set competitive prices and assist potential renters in identifying good deals.
 
 ## Dataset
-The dataset used for this project is sourced from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). It contains various features about the listings, including:
+The dataset used for this project is sourced from [UCSD DSC 148 Data Mining Course Webiste](https://www.dropbox.com/scl/fo/vhf0wa7555c0058017529/h?rlkey=mcpb2kbng1iom10c246vcye9v&e=1&dl=0). It contains various features about the listings, including:
 - Listing ID
 - Host ID
 - Neighbourhood
