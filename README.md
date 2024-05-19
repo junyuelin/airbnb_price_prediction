@@ -1,1 +1,1 @@
-# airbnb_price_prediction
+# Airbnb Price Prediction in NYC
