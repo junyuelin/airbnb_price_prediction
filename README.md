@@ -27,7 +27,7 @@ The dataset used for this project is sourced from [Course Webiste](https://www.d
 The model used for prediction is based on machine learning algorithms such as CatBoost, GradientBoost, lgb, or XGBoost. Feature engineering and hyperparameter tuning were performed to optimize the model performance.
 
 ## Evaluation
-The model is evaluated using metrics Mean Squared Error (MSE).
+The model is evaluated using metrics Root Mean Squared Error (RMSE).
 
 ## Results
-The final model achieves a Mean Squared Error (MSE) of 81.12619 on the test set. The performance metrics indicate that the model is effective in predicting Airbnb listing prices within a reasonable error margin.
+The final model achieves a Root Mean Squared Error (RMSE) of 81.12619 on the test set. The performance metrics indicate that the model is effective in predicting Airbnb listing prices within a reasonable error margin.
